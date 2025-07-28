@@ -1,6 +1,10 @@
 # Hi, I'm Kousaila 👋
 
-Backend Developer | DevOps Enthusiast | Problem Solver
+Backend Developer | DevOps Enthusiast | Computer Science Graduate Student
+
+## 🎓 About Me
+
+5th year Computer Science student at **École Supérieure d'Informatique (ESI-SBA)**, specializing in Information Systems Engineering. Currently completing my master's thesis on **"Leveraging GitOps for Scalable and Maintainable CI/CD Pipelines"** with graduation planned for September 2025.
 
 ## 🛠️ What I Work With
 
@@ -9,12 +13,19 @@ Backend Developer | DevOps Enthusiast | Problem Solver
 - MongoDB & MySQL  
 - REST APIs & Authentication
 - JWT, bcrypt, role-based access
+- Database design & optimization
 
 **DevOps & Infrastructure:**
 - Docker & Kubernetes
 - CI/CD Pipelines (GitHub Actions)
 - Microservices Architecture
-- Cloud
+- ArgoCD & GitOps
+- Cloud platforms (GKE)
+
+**Monitoring & Observability:**
+- Prometheus & Grafana
+- Pushgateway for metrics collection
+- Performance testing & analysis
 
 **Frontend (Learning):**
 - React.js
@@ -23,23 +34,40 @@ Backend Developer | DevOps Enthusiast | Problem Solver
 ## 🚀 Featured Projects
 
 ### [E-commerce Microservices Platform](https://github.com/kousaila502/ecommerce-microservices-platform)
-Production-ready microservices comparing Traditional CI/CD vs GitOps deployment. Built with Kubernetes, Docker, and automated pipelines.
+**Master's thesis research project** comparing Traditional CI/CD vs GitOps deployment methodologies. Built with Kubernetes, Docker, and automated pipeline analysis on GKE. **Results show 5x faster deployments** with GitOps (175s vs 900s).
 
 ### [Algerian Tourism API](https://github.com/kousaila502/algerian-tourism-api)  
-REST API for tourism platform with social features, agency management, and secure authentication. Node.js, Express, MongoDB.
+REST API for tourism platform with social features, agency management, and secure authentication. Handles pagination, file uploads, and role-based access. Built with Node.js, Express, MongoDB.
 
 ### [Enterprise Social Platform](https://github.com/kousaila502/enterprise-social-platform)
-Fullstack welfare management platform with role-based authentication and automated workflows. Node.js backend, React frontend.
+Fullstack welfare management platform with automated workflows and payment processing. Built for government/NGO operations with role-based authentication.
+
+## 🔬 Current Research
+
+**Thesis Project (April 2025 - September 2025):**
+- Conducting quantitative analysis of 22 deployment metrics
+- Comparing Traditional CI/CD vs GitOps using real microservices
+- Testing on Kubernetes with Prometheus/Grafana monitoring
+- Preliminary results show **5.1x performance improvement** with GitOps
+
+## 🎯 Currently Learning
+
+- Infrastructure as Code (Terraform, Ansible)
+- Advanced Kubernetes patterns
+- Cloud-native observability
+- Microservices security best practices
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kousaila502&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kousaila502&layout=compact)
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](in/kousaila-benhamouche)
+- 💼 [LinkedIn](https://linkedin.com/in/kousaila-benhamouche)
 - 📧 Email: k.benhamouche@esi-sba.dz
 - 🌍 Location: Algeria
+- 🎓 Institution: École Supérieure d'Informatique (ESI-SBA)
 
 ---
-*Building reliable backend systems and exploring DevOps practices*
+*Building reliable backend systems and researching DevOps practices. Open to backend development, DevOps opportunities, and interesting collaborations.*
