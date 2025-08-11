@@ -10,6 +10,7 @@ Backend Developer | DevOps Enthusiast | Computer Science Graduate Student
 
 **Backend Development:**
 - Node.js & Express.js
+- Python Fast Api
 - MongoDB & MySQL  
 - REST APIs & Authentication
 - JWT, bcrypt, role-based access
