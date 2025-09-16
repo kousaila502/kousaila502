@@ -1,10 +1,10 @@
 # Hi, I'm Kousaila 👋
 
-Backend Developer | DevOps Enthusiast | Computer Science Graduate Student
+Computer Science engineer | Backend Developer | DevOps Enthusiast 
 
 ## 🎓 About Me
 
-5th year Computer Science student at **École Supérieure d'Informatique (ESI-SBA)**, specializing in Information Systems Engineering. Currently completing my master's thesis on **"Leveraging GitOps for Scalable and Maintainable CI/CD Pipelines"** with graduation planned for September 2025.
+Graduated Computer Science **Engineer** from École Supérieure d'Informatique (ESI-SBA), specializing in Information Systems Engineering. I focus on **Full-Stack** and **Backend Development**, with solid **DevOps** experience in building, deploying, and maintaining scalable applications.
 
 ## 🛠️ What I Work With
 
